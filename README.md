@@ -17,7 +17,16 @@ Hackthon_Dataset/
 │   └── setup_env.sh      # Equivalent environment setup script for Mac/Linux
 ├── train.py              # Script to train the YOLOv8 model
 ├── predict.py            # Script to run predictions
-└── ...                   # Other necessary files
+├── data/                     # Dataset folder
+├── predictions/              # Prediction outputs
+├── runs/                     # Training logs and checkpoints
+├── classes.txt               # Class names
+├── Hackstreet_report.pdf      # Project report
+├── runthisforonnx.py         # Script to convert model to ONNX
+├── visualize.py              # Script to visualize results
+├── WhatsApp Video ... .mp4   # Reference or sample video
+├── yolo_params.yaml          # YOLO configuration parameters
+├── yolov8s.pt                # Pretrained YOLOv8 model weights
 ```
 
 ---
@@ -133,17 +142,25 @@ conda install <package_name>
 
 ---
 
-## 🤝 Contributing
+## 🤝 trained model
 
-Pull requests and suggestions are welcome! Feel free to fork this repo and contribute.
-
----
-
-## 📄 License
-
-This project is licensed for educational and hackathon use only.
+Old model output is in runs\detect\train4(old model)\best.pt
+New model output is in runs\detect\train5(new model)\best.pt
 
 ---
 
-**Good luck with your model training! 🚀**
+## 🔰 VIDEO AND REPORT 
+
+Video will be available when the file is unzipped "WhatsApp Video 2025-06-25 at 04.40.07_5eda6ea1.mp4"
+Report will be available when the file is unzipped "Hackstreet_report"
+
+---
+## 📄 For onnx file 
+
+Just type "python runthisforonnx.py" in the terminal and it will provide onnx file in the latest "runs\detect\train5(new model)\" folder 
+
+---
+
+**Had a blast working on this project,  The working application the steps are in this repo [🔗 Falcon Dataset & Model Repository](https://github.com/sidpaji28/Falcon_dataset_model)
+  🚀**
 
