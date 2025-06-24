@@ -24,7 +24,7 @@ Hackthon_Dataset/
 ├── Hackstreet_report.pdf      # Project report
 ├── runthisforonnx.py         # Script to convert model to ONNX
 ├── visualize.py              # Script to visualize results
-├── WhatsApp Video ... .mp4   # Reference or sample video
+├── Hackstreet_Demonstration_Video.mp4   # Reference or sample video
 ├── yolo_params.yaml          # YOLO configuration parameters
 ├── yolov8s.pt                # Pretrained YOLOv8 model weights
 ```
