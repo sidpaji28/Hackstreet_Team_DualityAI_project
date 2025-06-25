@@ -7,6 +7,9 @@
 This repository contains the setup, training workflow, and scripts to train a YOLOv8 object detection model as part of the Space Station Hackathon. Follow the steps below to get your environment ready and start training.
 
 ---
+# ♻ Drive link containing all the files and folder for verification
+
+This drive link contains all the data and training,models etc . required for the verification 
 
 ## 📁 Project Structure
 
