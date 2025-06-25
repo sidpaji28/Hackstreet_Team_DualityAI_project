@@ -9,7 +9,7 @@ This repository contains the setup, training workflow, and scripts to train a YO
 ---
 # ♻ Drive link containing all the files and folder for verification
 
-This drive link contains all the data and training,models etc . required for the verification 
+This drive link contains all the data and training,models etc . required for the verification  https://drive.google.com/drive/folders/1k7_HAHoN2ZN5JzKoTvK_SCPR0yV6JxEs?usp=sharing
 
 ## 📁 Project Structure
 
