@@ -11,6 +11,10 @@ This repository contains the setup, training workflow, and scripts to train a YO
 
 This drive link contains all the data and training,models etc . required for the verification  https://drive.google.com/drive/folders/1k7_HAHoN2ZN5JzKoTvK_SCPR0yV6JxEs?usp=sharing
 
+
+**Had a blast working on this project,  The working application the steps are in this repo [🔗 Falcon Dataset & Model Repository](https://github.com/sidpaji28/Falcon_dataset_model)
+  🚀**
+
 ## 📁 Project Structure
 
 ```
@@ -164,6 +168,4 @@ Just type "python runthisforonnx.py" in the terminal and it will provide onnx fi
 
 ---
 
-**Had a blast working on this project,  The working application the steps are in this repo [🔗 Falcon Dataset & Model Repository](https://github.com/sidpaji28/Falcon_dataset_model)
-  🚀**
 
